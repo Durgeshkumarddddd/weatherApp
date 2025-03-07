@@ -17,3 +17,64 @@ This is a **Python-based Weather Forecast Application** that allows users to **s
 - **OpenWeatherMap API (or any weather API used)**  
 
 ## 📂 Project Structure  
+📦 Weather-Forecast-App
+├── 📜 main.py # Main script for fetching & displaying weather
+├── 📜 requirements.txt # Dependencies & libraries
+├── 📜 README.md # Project documentation
+└── 📂 assets/ # Icons, images (if used)
+
+
+## 🔧 Installation & Setup  
+1️⃣ **Clone the Repository**  
+```sh
+git clone https://github.com/your-username/weather-forecast-app.git
+cd weather-forecast-app
+
+ Install Dependencies
+
+sh
+Copy
+Edit
+pip install -r requirements.txt
+
+Run the Application
+
+sh
+Copy
+Edit
+python main.py
+
+ API Configuration
+Sign up on OpenWeatherMap
+Get your API key and add it to the script:
+python
+Copy
+Edit
+API_KEY = "your_api_key_here"
+
+ Screenshots (Optional)
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork the repository and create a pull request.
+
+📜 License
+This project is licensed under the MIT License.
+
+📞 Contact
+🔹 GitHub: your-username
+🔹 Email: your-email@example.com
+
+🌦 Stay informed with real-time weather updates! 🚀
+
+vbnet
+Copy
+Edit
+
+Feel free to modify it as per your project details! Let me know if you need any refinements. 😊
+
+
+
+
+
+
+
