@@ -70,6 +70,38 @@ vbnet
 Copy
 Edit
 
+## **📢 How to Contribute**  
+
+💡 **Got ideas? Found a bug?** We’d love your contributions!  
+Follow these steps:  
+
+1. **Fork the repository**  
+2. **Create a new feature branch**  
+   ```bash
+   git checkout -b feature-name
+   ```
+3. **Commit changes**  
+   ```bash
+   git commit -m "Add feature XYZ"
+   ```
+4. **Push to GitHub**  
+   ```bash
+   git push origin feature-name
+   ```
+5. **Submit a Pull Request** 🚀  
+
+---
+
+
+---
+
+## **👨‍💻 Developer & Contact**  
+
+💬 **Questions? Need support?**  
+📧 Email: [contact on email](mailto:your.durgeshkumarddddd1234@gmail.com)  
+🔗 LinkedIn: [My Profile](www.linkedin.com/in/durgeshkumar)  
+
+
 Feel free to modify it as per your project details! Let me know if you need any refinements. 😊
 
 
