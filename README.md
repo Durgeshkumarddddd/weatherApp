@@ -61,8 +61,8 @@ Contributions are welcome! Feel free to fork the repository and create a pull re
 This project is licensed under the MIT License.
 
 📞 Contact
-🔹 GitHub: your-username
-🔹 Email: your-email@example.com
+🔹 GitHub: Durgeshkumarddddd
+🔹 Email: durgeshkumarddddd1234@gmail.com
 
 🌦 Stay informed with real-time weather updates! 🚀
 
